@@ -26,8 +26,8 @@
 
 1. **Industries and Roles Explored**:
     
-    - List of industries or roles I have researched - front-end, backend , mobile, AI development
-    - Areas that piqued my interest - backend and Ai development
+    - List of industries or roles I have researched - front-end, backend , mobile, AI development, devops, cloud developer
+    - Areas that piqued my interest - backend , cloud and Ai development
 
 2. **Alignment with Personal Profile**:
     
@@ -62,15 +62,15 @@
     **Goal 2**
     - Specific -  Get a job by August 2024
     - Measurable - complete my portfolio and apply to atleast 5-10 jobs a week from June 2024
-    - Achievable - I have basic understanding of proghramming this should help grasp concepts faster and dedicate atleast 2 hours to extra projects outside codespace.
+    - Achievable - I have basic understanding of programming this should help grasp concepts faster and dedicate atleast 2 hours to create extra projects outside codespace.
     - Relevant - Becoming a software engineer aligns with my long-term career goals.
     - Time -bound - Achieve this goal within 7 months from today.
 
 2. **Preparation for Long-term Goals**:
 
-    - Specific - Become a proficient full-stack web developer with focous on backend
-    - Measurable - complete atleast 5 fullstack applications that include CRUD/Apis/ecommerce with a tech stack lile html,tailwind css, apis and react.
-    - Achievable - I have basic programming knowledge and some experience with web development already. 
+    - Specific - Become a proficient full-stack web developer with focus on backend
+    - Measurable - complete atleast 5 fullstack applications that include CRUD/Apis/ecommerce with a tech stack lile html,tailwind css, apis, react, node.js/python for backend and databases
+    - Achievable - I have basic programming knowledge and some experience with web development already this will help fast track my plan.
     - Relevant - I want to add backend skills because they align with my interest.
     - Time- bound - I want to achieve this goal in 1.5 years.
 
@@ -81,19 +81,19 @@
     Potential obstacles or challenges in reaching my goals.
 
     - Huge competition in the job market
-    - Work experience
+    - Lack of work experience
 
     Strategies to overcome these challenges.
 
     - Create a portfolio that only has projects that clients or companies can relate to.
-    - Do freelancing gigs/ offer my services for free to some companies 
+    - Do freelancing gigs/ offer my services for free to some companies to gain experience
 
 2. **Opportunities for Growth**:
 
    - Attend community fridays at codespace to connect and learn from experts in the field
    - watch youtube videos on portfolio reviews to gain insights on what great portfolios look like.
    - Attend tech events online or that are near my area to connect with potential employers and peers
-   - DM recruiters and share myt work with them and hope to score an interview.
+   - DM recruiters and share my work with them and hope to score an interview.
 
 
 
